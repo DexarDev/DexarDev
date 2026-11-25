@@ -13,7 +13,7 @@ I'm learning Python and working towards becoming a Backend Developer.
 - GitHub
 
 ### 📂 My Projects
-- [Python Mini Projects](https://github.com/DexarDev/python-mini-projects) — A collection of small Python projects.
+- [Python Mini Projects](https://github.com/DexarDev/python-mini-projects) - A collection of small Python projects.
 
 ### 🎯 Goals
 - Strengthen my Python fundamentals
