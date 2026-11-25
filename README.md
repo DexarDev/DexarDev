@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey! I'm DexarDev 👋
 
-<!--
-**DexarDev/DexarDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! Я изучаю Python и развиваюсь в программировании.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- Currently learning Python
+- Building small projects to improve my skills
+- Interested in Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+- Python
+- Git
+- GitHub
+
+### 📂 My Projects
+- [Python Mini Projects](https://github.com/DexarDev/python-mini-projects) — A collection of small Python projects.
+
+### 🎯 Goals
+- Strengthen my Python fundamentals
+- Learn Backend Development
+- Build real-world projects
