@@ -1,6 +1,6 @@
 # Hey! I'm DexarDev 👋
 
-Привет! Я изучаю Python и развиваюсь в программировании.
+I'm learning Python and working towards becoming a Backend Developer.
 
 ### 🚀 About Me
 - Currently learning Python
